@@ -1,0 +1,29 @@
+ h2{
+            color:brown; background-color:aqua;
+        }
+        p{
+            px;border-width: 8px;
+            border-style: double;
+            border-color:gold;
+            border-radius: 10px;
+            padding: 5px;
+        }
+        #p1{
+             px;border-width: 9px;
+            border-style: double;
+            border-color:black;
+            border-radius: 5px;
+            padding: 5px; 
+        }
+        #p2{
+             px;border-width: 5px;
+             border-style: dotted;
+            border-color:brown;
+            border-radius: 10px;
+            padding: 5px; 
+        }
+        #p3{border-width: 5px;
+            border-style: dashed;
+            border-color:blue;
+            border-radius: 10px;
+            padding: 5px; }
